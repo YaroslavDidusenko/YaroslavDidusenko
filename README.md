@@ -5,7 +5,7 @@
 I’m a frontend-focused developer growing into fullstack development.  
 I build modern, responsive web applications with clean UI, scalable structure, and smooth user experience.
 
-I enjoy turning ideas into real products, writing clean code, and continuously improving my skills.
+🌐 Portfolio: https://nextjs-portfolio-flame-pi.vercel.app/
 
 ---
 
@@ -32,7 +32,7 @@ A social platform developed in a team with separate frontend and backend archite
 - Developed frontend features using React
 - Integrated frontend with REST API
 - Improved UI/UX and responsiveness
-- Worked with Git workflow (branches, pull requests, code review)
+- Collaborated using Git workflow (branches, pull requests, code review)
 
 **Links:**
 - Backend: https://github.com/YOUR_LINK
@@ -49,7 +49,7 @@ A personal note management app focused on usability and clean interface.
 - Built the project from idea to production
 - Designed UI and structure
 - Implemented core functionality
-- Optimized UX and responsive layout
+- Focused on UX and responsiveness
 
 **Live:**
 https://06-notehub-nextjs-rho-lime.vercel.app
