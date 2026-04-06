@@ -41,6 +41,21 @@ A social platform developed in a team with separate frontend and backend archite
 
 ---
 
+### 🔹 WebTune — Music Platform (Team Project)
+
+A team project focused on building a modern music platform interface.
+
+**My role:**
+- Developed responsive UI components
+- Worked with team collaboration workflow (Git, branches)
+- Improved layout and user experience
+- Participated in feature implementation
+
+**Live:**
+https://t1mofii.github.io/WebTune/
+
+---
+
 ### 🔹 NoteHub — Personal Project
 
 A personal note management app focused on usability and clean interface.
